@@ -25,6 +25,6 @@
     alert("It is equal")
  }else{
     alert("Not Valid")
- }
+ }       
 
     
